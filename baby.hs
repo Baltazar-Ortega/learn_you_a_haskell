@@ -48,7 +48,7 @@ myAppend = 5:[6, 7, 8]
 -- Get element out of a list by index, use !!. Indices start at cero. 
 steve = "Steve Buscemi" !! 6
 
-thirtyThreePointTwo = [9.4, 33.2, 96.2, 11.2, 23.25] !! 1
+thirtyThreePointTwo = [9.4, 33.2, 96.2,11.2,23.25] !! 1
 
 b = [[1,2,3,4], [5,3,3,3], [1,2,2,3,4], [1,2,3]]
 
